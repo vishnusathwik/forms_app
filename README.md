@@ -1,6 +1,5 @@
 # Google Forms Clone With React & Firebase
 
-[https://handform-c62a3.web.app](https://handform-c62a3.web.app)
 
 ## Technologi Used
 - React
