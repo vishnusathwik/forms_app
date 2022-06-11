@@ -40,11 +40,11 @@ export const Action = ({ duplicate }) => {
 
   const icons = [
     {
-      icon: duplicateIcon,
+      /*icon: duplicateIcon,
       alt: "duplicate",
       onClick: duplicate,
       x: 112,
-    },
+    },*/
     {
       icon: plusCircleIcon,
       alt: "plus",
