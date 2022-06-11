@@ -1,0 +1,84 @@
+[debug] [2022-06-11T10:14:46.984Z] ----------------------------------------------------------------------
+[debug] [2022-06-11T10:14:46.987Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\vishnu sathwik\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-06-11T10:14:46.988Z] CLI Version:   11.0.1
+[debug] [2022-06-11T10:14:46.988Z] Platform:      win32
+[debug] [2022-06-11T10:14:46.988Z] Node Version:  v16.15.1
+[debug] [2022-06-11T10:14:46.989Z] Time:          Sat Jun 11 2022 15:44:46 GMT+0530 (India Standard Time)
+[debug] [2022-06-11T10:14:46.989Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-11T10:14:47.079Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-11T10:14:47.079Z] > authorizing via signed-in user (vishnusathwik03@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Downloads\handform-main
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-06-11T10:16:00.380Z] Using project from CLI flag: myiwt-d1b13
+[debug] [2022-06-11T10:16:00.385Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13 [none]
+[debug] [2022-06-11T10:16:00.853Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13 200
+[debug] [2022-06-11T10:16:00.853Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13 {"projectId":"myiwt-d1b13","projectNumber":"648503356207","displayName":"myiwt","name":"projects/myiwt-d1b13","resources":{"hostingSite":"myiwt-d1b13","realtimeDatabaseInstance":"myiwt-d1b13-default-rtdb","storageBucket":"myiwt-d1b13.appspot.com","locationId":"us-central"},"state":"ACTIVE"}
+[info] i  Using project myiwt-d1b13 (myiwt) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2022-06-11T10:16:15.702Z] ----------------------------------------------------------------------
+[debug] [2022-06-11T10:16:15.705Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\vishnu sathwik\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-06-11T10:16:15.706Z] CLI Version:   11.0.1
+[debug] [2022-06-11T10:16:15.706Z] Platform:      win32
+[debug] [2022-06-11T10:16:15.706Z] Node Version:  v16.15.1
+[debug] [2022-06-11T10:16:15.707Z] Time:          Sat Jun 11 2022 15:46:15 GMT+0530 (India Standard Time)
+[debug] [2022-06-11T10:16:15.708Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-11T10:16:15.805Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-11T10:16:15.805Z] > authorizing via signed-in user (vishnusathwik03@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Downloads\handform-main
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-06-11T10:16:51.206Z] Using project from CLI flag: myiwt-d1b13
+[debug] [2022-06-11T10:16:51.211Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13 [none]
+[debug] [2022-06-11T10:17:12.305Z] Failed to make request to https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13
+[debug] [2022-06-11T10:17:26.781Z] FirebaseError: Failed to make request to https://firebase.googleapis.com/v1beta1/projects/myiwt-d1b13
+    at RetryOperation._fn (C:\Users\vishnu sathwik\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:240:31)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] 
+[error] Error: Failed to get Firebase project myiwt-d1b13. Please make sure the project exists and your account has permission to access it.

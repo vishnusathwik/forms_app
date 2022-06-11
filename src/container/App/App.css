@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+button,
+input,
+textarea button:focus,
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+textarea::-webkit-scrollbar {
+  width: 3px; /* width of the entire scrollbar */
+}
+
+textarea::-webkit-scrollbar-track {
+  background: #eee; /* color of the tracking area */
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: rgb(163, 163, 163); /* color of the scroll thumb */
+}
+
+.light-shadow {
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.76);
+}
+
+/*loading animation */
+.loader-dots div {
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.loader-dots div:nth-child(1) {
+  left: 8px;
+  animation: loader-dots1 0.6s infinite;
+}
+.loader-dots div:nth-child(2) {
+  left: 8px;
+  animation: loader-dots2 0.6s infinite;
+}
+.loader-dots div:nth-child(3) {
+  left: 32px;
+  animation: loader-dots2 0.6s infinite;
+}
+.loader-dots div:nth-child(4) {
+  left: 56px;
+  animation: loader-dots3 0.6s infinite;
+}
+@keyframes loader-dots1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes loader-dots3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+@keyframes loader-dots2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(24px, 0);
+  }
+}
