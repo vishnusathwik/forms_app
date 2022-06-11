@@ -1,7 +1,7 @@
 # Google Forms Clone With React & Firebase
 
 
-## Technologi Used
+## Technologies Used
 - React
 - Firebase
 - TailwindCSS
