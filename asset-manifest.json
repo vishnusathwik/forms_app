@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/iwt-_assignment_T9_googleformclone/static/css/main.558c1002.chunk.css",
+    "main.js": "/iwt-_assignment_T9_googleformclone/static/js/main.94925a88.chunk.js",
+    "main.js.map": "/iwt-_assignment_T9_googleformclone/static/js/main.94925a88.chunk.js.map",
+    "runtime-main.js": "/iwt-_assignment_T9_googleformclone/static/js/runtime-main.e1611421.js",
+    "runtime-main.js.map": "/iwt-_assignment_T9_googleformclone/static/js/runtime-main.e1611421.js.map",
+    "static/js/2.cc82114a.chunk.js": "/iwt-_assignment_T9_googleformclone/static/js/2.cc82114a.chunk.js",
+    "static/js/2.cc82114a.chunk.js.map": "/iwt-_assignment_T9_googleformclone/static/js/2.cc82114a.chunk.js.map",
+    "static/js/3.051d910c.chunk.js": "/iwt-_assignment_T9_googleformclone/static/js/3.051d910c.chunk.js",
+    "static/js/3.051d910c.chunk.js.map": "/iwt-_assignment_T9_googleformclone/static/js/3.051d910c.chunk.js.map",
+    "index.html": "/iwt-_assignment_T9_googleformclone/index.html",
+    "static/css/main.558c1002.chunk.css.map": "/iwt-_assignment_T9_googleformclone/static/css/main.558c1002.chunk.css.map",
+    "static/js/2.cc82114a.chunk.js.LICENSE.txt": "/iwt-_assignment_T9_googleformclone/static/js/2.cc82114a.chunk.js.LICENSE.txt",
+    "static/media/check.672a7c13.svg": "/iwt-_assignment_T9_googleformclone/static/media/check.672a7c13.svg",
+    "static/media/document.3e4e98f2.svg": "/iwt-_assignment_T9_googleformclone/static/media/document.3e4e98f2.svg",
+    "static/media/documentAdd.900b14a5.svg": "/iwt-_assignment_T9_googleformclone/static/media/documentAdd.900b14a5.svg",
+    "static/media/documentRemove.b1220d38.svg": "/iwt-_assignment_T9_googleformclone/static/media/documentRemove.b1220d38.svg",
+    "static/media/duplicate.c5ec7090.svg": "/iwt-_assignment_T9_googleformclone/static/media/duplicate.c5ec7090.svg",
+    "static/media/edit.f4456ca7.svg": "/iwt-_assignment_T9_googleformclone/static/media/edit.f4456ca7.svg",
+    "static/media/grid.3b174aa2.svg": "/iwt-_assignment_T9_googleformclone/static/media/grid.3b174aa2.svg",
+    "static/media/menu.24171495.svg": "/iwt-_assignment_T9_googleformclone/static/media/menu.24171495.svg",
+    "static/media/menuAlt.40e66ec3.svg": "/iwt-_assignment_T9_googleformclone/static/media/menuAlt.40e66ec3.svg",
+    "static/media/moon.5f48c4f6.svg": "/iwt-_assignment_T9_googleformclone/static/media/moon.5f48c4f6.svg",
+    "static/media/pencil.830bd8ea.svg": "/iwt-_assignment_T9_googleformclone/static/media/pencil.830bd8ea.svg",
+    "static/media/plus.f8304564.svg": "/iwt-_assignment_T9_googleformclone/static/media/plus.f8304564.svg",
+    "static/media/plusCircle.b5c3d234.svg": "/iwt-_assignment_T9_googleformclone/static/media/plusCircle.b5c3d234.svg",
+    "static/media/sun.76fea37d.svg": "/iwt-_assignment_T9_googleformclone/static/media/sun.76fea37d.svg",
+    "static/media/trash.77e62337.svg": "/iwt-_assignment_T9_googleformclone/static/media/trash.77e62337.svg",
+    "static/media/user.ba62f0fa.svg": "/iwt-_assignment_T9_googleformclone/static/media/user.ba62f0fa.svg",
+    "static/media/verticalDots.de64790e.svg": "/iwt-_assignment_T9_googleformclone/static/media/verticalDots.de64790e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1611421.js",
+    "static/js/2.cc82114a.chunk.js",
+    "static/css/main.558c1002.chunk.css",
+    "static/js/main.94925a88.chunk.js"
+  ]
+}
