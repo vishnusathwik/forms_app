@@ -4,13 +4,13 @@ import "firebase/auth";
 // import "firebase/storage";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDUO519_7s2AL4yfutX5S4Gd_hQXQbRwXw",
-  authDomain: "myiwt-d1b13.firebaseapp.com",
-  databaseURL: "https://myiwt-d1b13-default-rtdb.firebaseio.com",
-  projectId: "myiwt-d1b13",
-  storageBucket: "myiwt-d1b13.appspot.com",
-  messagingSenderId: "648503356207",
-  appId: "1:648503356207:web:09f3d91a2aa979e260cfda"
+  apiKey: "AIzaSyAPPDnLQF6RAGjE88B6B5Iy4jdirg2YjTA",
+  authDomain: "iwtassignment-aeefa.firebaseapp.com",
+  projectId: "iwtassignment-aeefa",
+  storageBucket: "iwtassignment-aeefa.appspot.com",
+  messagingSenderId: "103502324216",
+  appId: "1:103502324216:web:d0fc173e84c1cec3d7b60d",
+  measurementId: "G-CMNQVEMV3P"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
