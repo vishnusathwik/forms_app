@@ -39,7 +39,7 @@ export const Action = ({ duplicate }) => {
   };
 
   const icons = [
-    {
+    //{
       /*icon: duplicateIcon,
       alt: "duplicate",
       onClick: duplicate,
