@@ -75,7 +75,7 @@ export default function Form() {
         dispatch({ type: "CHANGE_COLOR", value: res.color });
         dispatch({ type: "CHANGE_CONTENTFORM", value: res.contentForms });
       } catch (e) {
-        console.error("data tidak ada");
+        console.error(e);
       } finally {
         dispatch({ type: "CHANGE_ISLOADING", value: false });
       }
