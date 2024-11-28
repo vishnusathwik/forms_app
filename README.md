@@ -1,5 +1,8 @@
 # Google Forms Clone With React & Firebase
 
+SELECT grantee, table_name, privilege
+FROM DBA_TAB_PRIVS
+WHERE grantor = 'YOUR_USER_NAME';
 
 ## Technologies Used
 - React
